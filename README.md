@@ -10,4 +10,4 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
 
 2. En beskrivelse af den teknologi du vil anvende i udviklingen
 
-3. En liste over de ressourcer som har hjulpet dig i mål
+3. En liste over de ressourcer som har hjulpet dig i processen

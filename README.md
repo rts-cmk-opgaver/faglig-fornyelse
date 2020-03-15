@@ -31,4 +31,4 @@ https://skoletubeguide.dk/project/wevideo/
 Det er især interessant for dig at se video 3. udgiv til skoletube og video 37 under punkt 6. webcam og optager.
 
 ## Evaluering
-Du vil blive evalueret på alle ovenstående punkter og i den aktuelle situation er især video præsentationen vigtig for den del af evalueringen som omhandler karaktergivning. 
+Du vil blive evalueret på alle ovenstående punkter og i den aktuelle situation hvor vi er forhindret i at elvaluere på skolen, er især video præsentationen vigtig, for den del af evalueringen som omhandler karaktergivning. 

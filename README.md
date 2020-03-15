@@ -5,7 +5,7 @@ Det er et **krav** at du ikke fra tidligere undervisning har kendskab til den te
 
 Du skal som det fremgår umiddebart herover demonstere at du kan anvende den tilegnede viden ved, at udvikle et produkt som bygger på den valgte teknologi. Du vil blive vurderet på dette produkt og din viden omkring den anvendte teknologi, samt din forståelse for dennes anvendeligehed og alternativer hertil. 
 
-## Aflevering
+## Aflevering fredag d. 20 kl 13:40
 ***Nedenstående skrives i readme.md filen fra opgave rapo.***
 
 0. En kort video* præsentation af det færdige produkt. I videoen* skal du forklare:<br>

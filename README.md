@@ -9,10 +9,10 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
 ***Nedenstående skrives i readme.md filen fra opgave rapo.***
 
 0. En kort video* præsentation af det færdige produkt. I videoen* skal du forklare hvad du har udviklet:<br>
-  a. Hvilken teknologi du har anvendt.
-  b. Hvorfor du har anvendt den aktuelle teknologi.
-  c. Hvilke alternative teknologier du kunne have brugt. 
-  d. Lidt om de fordele eller ulemper som du har erfaret.
+  a. Hvilken teknologi du har anvendt.<br>
+  b. Hvorfor du har anvendt den aktuelle teknologi.<br>
+  c. Hvilke alternative teknologier du kunne have brugt.<br>
+  d. Lidt om de fordele eller ulemper som du har erfaret.<br>
 
 
 1. En kort beskrivelse af det produkt du vil udvikle

@@ -13,7 +13,7 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
   b. Hvilken teknologi du har anvendt.<br>
   c. Hvorfor du har anvendt den aktuelle teknologi.<br>
   d. Hvilke alternative teknologier du kunne have brugt.<br>
-  e. Lidt om de fordele eller ulemper som du har erfaret.<br>
+  e. Lidt om de fordele eller ulemper som du har erfaret omkring den aktuelle teknologi.<br>
 
 
 1. En kort beskrivelse af det produkt du vil udvikle

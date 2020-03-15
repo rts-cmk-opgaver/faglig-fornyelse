@@ -8,7 +8,7 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
 ## Aflevering
 ***Nedenstående skrives i readme.md filen fra opgave rapo.***
 
-0. En kort video præsentation af det færdige produkt (aflevers i skoletube, se nederst) 
+0. En kort video præsentation af det færdige produkt hvor du forklare hvad du har bygget og hvordan (aflevers i skoletube, se nederst) 
 
 1. En kort beskrivelse af det produkt du vil udvikle
 
@@ -25,4 +25,4 @@ https://skoletubeguide.dk/project/wevideo/
 Det er især interessant for dig at se video 3. udgiv til skoletube og video 37 under punkt 6. webcam og optager.
 
 ## Evaluering
-Du vil blive evalueret på alle ovenstående punkter og i den aktuelle situation er især video* præsentationen vigtig for den del af evalueringen som omhandler karaktergivning. 
+Du vil blive evalueret på alle ovenstående punkter og i den aktuelle situation er især video præsentationen vigtig for den del af evalueringen som omhandler karaktergivning. 

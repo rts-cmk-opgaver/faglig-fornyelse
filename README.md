@@ -22,7 +22,7 @@ Afleveringen af jeres video gennemgang af produktet skal ske i skoletube. I logg
 **Video gennemgang af WeVideo:**
 https://skoletubeguide.dk/project/wevideo/
 
-Det er især interessant for dig at se videoen 3. udgiv til skoletube og video 37 under punkt 6. webcam og optager.
+Det er især interessant for dig at se video 3. udgiv til skoletube og video 37 under punkt 6. webcam og optager.
 
 ## Evaluering
 Du vil blive evalueret på alle ovenstående punkter og i den aktuelle situation er især video* præsentationen vigtig for den del af evalueringen som omhandler karaktergivning. 

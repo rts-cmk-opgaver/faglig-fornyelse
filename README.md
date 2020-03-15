@@ -8,7 +8,7 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
 ## Aflevering
 ***Nedenstående skrives i readme.md filen fra opgave rapo.***
 
-0. En kort video præsentation af det færdige produkt (aflevers i skoletube se nederst) 
+0. En kort video præsentation af det færdige produkt (aflevers i skoletube, se nederst) 
 
 1. En kort beskrivelse af det produkt du vil udvikle
 

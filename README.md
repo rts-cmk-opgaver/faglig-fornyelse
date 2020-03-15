@@ -19,7 +19,7 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
 ## Skoletube
 Afleveringen af jeres video gennemgang af produktet skal ske i skoletube. I logger på skoletube.dk med jeres uni-login, som i til dagligt bruger på til at komme op elevplan med. Brug følgende **invitationskode: CB75185A** for at joine vores kanal. I kan bruge skoletube appen WeVideo som er et simpelt og godt online redigeringsværktøj, som i har tilgængelig igennem skoletube. Du kan se skoletubes video gennemgang af WeVideo. der er en video for alt du behøver at vide for, at kunne lave en video gennemgang af dit produkt og herefter aflevere på skoletube.
 
-**Video gennemgang af WeVideo:**
+**Sådan bruger du WeVideo:**
 https://skoletubeguide.dk/project/wevideo/
 
 Det er især interessant for dig at se video 3. udgiv til skoletube og video 37 under punkt 6. webcam og optager.

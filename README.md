@@ -8,19 +8,18 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
 ## Aflevering fredag d. 20 kl. 13:40
 ***Nedenstående skrives i readme.md filen fra opgave rapo.***
 
-0. En kort video* præsentation af det færdige produkt. I videoen* skal du forklare:<br>
-  a. Hvad du har udviklet.<br>
-  b. Hvilken teknologi du har anvendt.<br>
-  c. Hvorfor du har anvendt den aktuelle teknologi.<br>
-  d. Hvilke alternative teknologier du kunne have brugt.<br>
+**Pre-coding:**
+
+1. En kort beskrivelse af det produkt du tænker på at udvikle 
+
+2. Applikation stack (An application stack is a group of software programs that work together to achieve a common goal)
+
+4. En kort video* præsentation af det færdige produkt. I videoen* foreventes det at se følgende:
+  a. En kort gennemgang at produktet<br>
+  b. En kort reflektion over process. (Kunne jeg løse opgaven med den tech stack jeg havde i tankerne?)<br>
+  c. Hvorfor du har anvendt den aktuelle teknologi frem for anden tilsvarende?.<br>
+  d. Hvilke alternative teknologier du kunne have brugt?<br>
   e. Lidt om de fordele eller ulemper som du har erfaret omkring den aktuelle teknologi.<br>
-
-
-1. En kort beskrivelse af det produkt du vil udvikle 
-
-2. En beskrivelse af den teknologi du vil anvende i udviklingen
-
-3. En liste over de ressourcer som har hjulpet dig i processen
 
 ## * Skoletube
 Afleveringen af jeres video gennemgang af produktet skal ske i skoletube. I logger på skoletube.dk med jeres **uni-login**, som i til dagligt bruger på til at komme op elevplan med. Brug følgende **invitationskode: CB75185A** for at joine vores kanal. I kan bruge skoletube appen **WeVideo** som er et simpelt og godt browser baseret videoredigeringsværktøj, som i har tilgængelig igennem skoletube. Du kan se skoletubes video gennemgang af WeVideo. der er en video for alt du behøver at vide for, at kunne lave en video gennemgang af dit produkt og herefter aflevere på skoletube.

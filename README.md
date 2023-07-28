@@ -1,33 +1,70 @@
-# faglig-fornyelse
+Faglig fornyelse:
 
-I faget faglig fornyelse skal du igennem egen research tilegne dig viden om en relevante og aktuel udviklingstendens, det kan for eksempel være et framework, bibliotek, et SDK eller noget fjerde som du kan benytte til at skabe et produkt som er relevant for din fagfaglige praksis, e.g. website, app etc. 
-Det er et **krav** at du ikke fra tidligere undervisning har kendskab til den teknologi du vælger at fordybe dig i. <br>Det er ligeledes et **krav** at du ikke "bare" følger en tutorial. Det kan være en god måde at komme igang på, men det er vigtigt at du bruger den viden du får undervejs til at udvide produktet med egne features og at du kan påpeje disse features i din videogennemgang af produktet.
+Varighed: 10 dage (Faget strækker sig over to perioder på hver 5 dage. Begge fagperioder ligger umiddelbare forud for en periode med virksomhedsforlagt undervisning)
 
-Du skal som det fremgår umiddebart herover demonstere at du kan anvende den tilegnede viden ved, at udvikle et produkt som bygger på den valgte teknologi. Du vil blive vurderet på dette produkt og din viden omkring den anvendte teknologi, samt din forståelse for dennes anvendeligehed og alternativer hertil. 
+Niveau: Rutineret (Faget henvender sig til rutinerede dig, som allerede har grundlæggende viden om webudvikling og er fortrolige med programmeringssprog, teknologier og frameworks inden for faget.)
 
-## Aflevering fredag d. 20 kl. 13:40
-***Nedenstående skrives i readme.md filen fra opgave rapo.***
+Evaluering: Faget afsluttes med en samlet karakter, som tager højde for din indsats hen over de to perioder. Karakteren bliver tildelt ved afslutningen af fagets anden periode og vil afspejle din samlede indsats, forståelse og evne til at anvende den nyerhvervede viden til at udarbejde et konkret produkt.
 
-**Pre-coding:**
+Mål:
+Efter afslutningen af faget forventes det, at du har opnået følgende mål:
 
-1. En kort beskrivelse af det produkt du tænker på at udvikle 
+1.	Du kan tilegne sig viden om aktuelle faglige og teknologiske udviklingstendenser og muligheder inden for webudvikleruddannelsens fagområde.
+2.	Du kan anvende den tilegnede viden i egen praksis. 
+3.	Du skal kunne demonstrere, hvordan den nye viden er kan anvendes i praksis ved at udvikle et konkret fungerende webbaseret produkt eller applikation.
 
-2. Applikation stack (An application stack is a group of software programs that work together to achieve a common goal)
 
-4. En kort video* præsentation af det færdige produkt. I videoen* foreventes det at se følgende:
-  a. En kort gennemgang at produktet<br>
-  b. En kort reflektion over process. (Kunne jeg løse opgaven med den tech stack jeg havde i tankerne?)<br>
-  c. Hvorfor du har anvendt den aktuelle teknologi frem for anden tilsvarende?.<br>
-  d. Hvilke alternative teknologier du kunne have brugt?<br>
-  e. Lidt om de fordele eller ulemper som du har erfaret omkring den aktuelle teknologi.<br>
+Indledning:
+I faget faglig fornyelse skal du igennem egen research tilegne dig viden om en relevante udviklingstendens, det kan for eksempel være et framework, bibliotek, et SDK eller noget fjerde som du kan benytte til at skabe et produkt som er relevant for din fagfaglige praksis, e.g. website, app etc.
 
-## * Skoletube
-Afleveringen af jeres video gennemgang af produktet skal ske i skoletube. I logger på skoletube.dk med jeres **uni-login**, som i til dagligt bruger på til at komme op elevplan med. Brug følgende **invitationskode: CB75185A** for at joine vores kanal. I kan bruge skoletube appen **WeVideo** som er et simpelt og godt browser baseret videoredigeringsværktøj, som i har tilgængelig igennem skoletube. Du kan se skoletubes video gennemgang af WeVideo. der er en video for alt du behøver at vide for, at kunne lave en video gennemgang af dit produkt og herefter aflevere på skoletube.
+Det er et krav at du ikke fra tidligere undervisning har kendskab til den teknologi du vælger at fordybe dig i.
+Det er ligeledes et krav at du ikke "bare" følger en tutorial. Det kan være en god måde at komme i gang på, men det er vigtigt at du bruger den viden du får undervejs til at udvide produktet med egne features og at du kan påpege disse features i din gennemgang af produktet ved evaluering.
 
-**Sådan bruger du WeVideo:**
-https://skoletubeguide.dk/project/wevideo/
 
-Det er især interessant for dig at se video 3. udgiv til skoletube og video 37 under punkt 6. webcam og optager.
+Formål:
+Virksomheder kan arbejde med forskellige teknologier afhængigt af deres branche og behov. Ved at have en bredere viden om forskellige teknologier bliver du bedre rustet til at tilpasse dig og lære nye teknologier hurtigere, hvis det bliver nødvendigt.
 
-## Evaluering
-Du vil blive evalueret på alle ovenstående punkter og i den aktuelle situation hvor vi er forhindret i at elvaluere på skolen, er især video præsentationen vigtig, for den del af evalueringen som omhandler karaktergivning. 
+Det er en central del af fagets formål at styrke din evne til at arbejde uafhængigt og opsøge ny viden på egen hånd inden for din praksis fagområde. 
+
+Det er vigtigt, at du er bevidst om, at faget kræver en selvstændig indsats.
+
+
+Opgavebeskrivelse:
+
+1.	Valg af emne:
+a.	Vælg en teknologi fx. framework, bibliotek, et SDK 
+b.	Vælg et specifikt emne inden for en af disse teknologier, som du ønsker at udforske og arbejde med.
+c.	Afklar dit valgte emne med underviseren og få bekræftet, at det passer inden for fagets rammer og mål.
+
+2.	Informationsindsamling:
+a.	Lav en indledende undersøgelse af det valgte emne. Opsøg fx relevante artikler, blogs, tutorials, dokumentation og andre kilder for at få en grundlæggende forståelse for teknologien.
+
+3.	Udvælgelse af en konkrete problemstilling:
+a.	Definer en specifik problemstilling eller opgave, som du vil arbejde med inden for det valgte emne.
+b.	Sikr dig, at problemstillingen er realistisk at løse inden for den tidsramme, du har til rådighed.
+
+4.	Udvikling af det konkrete produkt:
+a.	Implementer og eksperimenter med den valgte teknologi for at løse den valgte problemstilling eller opgave.
+
+5.	Test:
+a.	Test dit produkt grundigt for at sikre, at det fungerer som forventet inden endeligt push.
+
+6.	Aflevering:
+a.	Aflevering sker løbende når du pusher til projektets repository. 
+
+
+#For dig med aftale omkring virksomhedsforlagt undervisning:
+
+Dit valg af emne kan være frit, men det anbefales, at emnet relateres til den teknologi, som den virksomhed, du skal i virksomhedsforlagt undervisning hos, anvender af flere gode grunde:
+
+##Professionelt indtryk:
+Ved at have en god forståelse for virksomhedens teknologiske landskab viser du interesse og engagement i virksomhedens kerneområde. Det sender et positivt signal til dine praktikvejledere og kollegaer, at du har taget initiativ til at lære om de værktøjer og teknologier, de arbejder med.
+
+##Effektivitet og produktivitet: 
+Du behøver ikke bruge unødig tid på at lære de grundlæggende ting, men kan i stedet bidrage med din viden og erfaring på en måde som skaber værdi for produktet og virksomheden.
+
+##Mulighed for at stille relevante spørgsmål: 
+Når du allerede har en grundlæggende forståelse for de anvendte teknologier, kan du stille mere præcise og relevante spørgsmål til dine kollegaer og vejledere. Dette kan bidrage til en mere meningsfuld dialog og læring under praktikforløbet.
+
+##Skabe merværdi: 
+Hvis du under praktikken kan demonstrere, at du har kendskab til relevante teknologier og har idéer til, hvordan de kan udnyttes eller forbedres, vil du kunne skabe merværdi for virksomheden. Det kan være med til at øge chancerne for, at de overvejer at tilbyde dig en stilling efter praktikperioden.

@@ -57,9 +57,9 @@ a.	Test dit produkt grundigt for at sikre, at det fungerer som forventet inden e
 a.	Aflevering sker løbende når du pusher til projektets repository. 
 
 
->  ### For dig med aftale omkring virksomhedsforlagt undervisning:
+# For dig med aftale omkring virksomhedsforlagt undervisning:
 
-Dit valg af emne kan være frit, men det anbefales, at emnet relateres til den teknologi, som den virksomhed, du skal i virksomhedsforlagt undervisning hos, anvender af flere gode grunde:
+> Dit valg af emne kan være frit, men det anbefales, at emnet relateres til den teknologi, som den virksomhed, du skal i virksomhedsforlagt undervisning hos, anvender af flere gode grunde:
 
 **Professionelt indtryk:**
 Ved at have en god forståelse for virksomhedens teknologiske landskab viser du interesse og engagement i virksomhedens kerneområde. Det sender et positivt signal til dine praktikvejledere og kollegaer, at du har taget initiativ til at lære om de værktøjer og teknologier, de arbejder med.

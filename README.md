@@ -34,25 +34,25 @@ Det er vigtigt, at du er bevidst om, at faget kræver en selvstændig indsats.
 
 ## Opgavebeskrivelse:
 
-1.	### Valg af emne:
+1.	**Valg af emne:**
 a.	Vælg en teknologi fx. framework, bibliotek, et SDK 
 b.	Vælg et specifikt emne inden for en af disse teknologier, som du ønsker at udforske og arbejde med.
 c.	Afklar dit valgte emne med underviseren og få bekræftet, at det passer inden for fagets rammer og mål.
 
-2.	### Informationsindsamling:
+2.	**Informationsindsamling:**
 a.	Lav en indledende undersøgelse af det valgte emne. Opsøg fx relevante artikler, blogs, tutorials, dokumentation og andre kilder for at få en grundlæggende forståelse for teknologien.
 
-3.	### Udvælgelse af en konkrete problemstilling:
+3.	**Udvælgelse af en konkrete problemstilling:**
 a.	Definer en specifik problemstilling eller opgave, som du vil arbejde med inden for det valgte emne.
 b.	Sikr dig, at problemstillingen er realistisk at løse inden for den tidsramme, du har til rådighed.
 
-4.	### Udvikling af det konkrete produkt:
+4.	**Udvikling af det konkrete produkt:**
 a.	Implementer og eksperimenter med den valgte teknologi for at løse den valgte problemstilling eller opgave.
 
-5.	### Test:
+5.	**Test:**
 a.	Test dit produkt grundigt for at sikre, at det fungerer som forventet inden endeligt push.
 
-6.	### Aflevering:
+6.	**Aflevering:**
 a.	Aflevering sker løbende når du pusher til projektets repository. 
 
 
@@ -60,14 +60,14 @@ a.	Aflevering sker løbende når du pusher til projektets repository.
 
 Dit valg af emne kan være frit, men det anbefales, at emnet relateres til den teknologi, som den virksomhed, du skal i virksomhedsforlagt undervisning hos, anvender af flere gode grunde:
 
-### Professionelt indtryk:
+**Professionelt indtryk:**
 Ved at have en god forståelse for virksomhedens teknologiske landskab viser du interesse og engagement i virksomhedens kerneområde. Det sender et positivt signal til dine praktikvejledere og kollegaer, at du har taget initiativ til at lære om de værktøjer og teknologier, de arbejder med.
 
-### Effektivitet og produktivitet: 
+**Effektivitet og produktivitet:** 
 Du behøver ikke bruge unødig tid på at lære de grundlæggende ting, men kan i stedet bidrage med din viden og erfaring på en måde som skaber værdi for produktet og virksomheden.
 
-### Mulighed for at stille relevante spørgsmål: 
+**Mulighed for at stille relevante spørgsmål:**
 Når du allerede har en grundlæggende forståelse for de anvendte teknologier, kan du stille mere præcise og relevante spørgsmål til dine kollegaer og vejledere. Dette kan bidrage til en mere meningsfuld dialog og læring under praktikforløbet.
 
-### Skabe merværdi: 
+**Skabe merværdi:** 
 Hvis du under praktikken kan demonstrere, at du har kendskab til relevante teknologier og har idéer til, hvordan de kan udnyttes eller forbedres, vil du kunne skabe merværdi for virksomheden. Det kan være med til at øge chancerne for, at de overvejer at tilbyde dig en stilling efter praktikperioden.

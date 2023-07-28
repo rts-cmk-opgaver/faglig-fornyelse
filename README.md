@@ -1,4 +1,4 @@
-# Faglig fornyelse:
+# Faglig fornyelse
 
 **Varighed:** 
 10 dage (Faget strækker sig over to perioder på hver 5 dage. Begge fagperioder ligger umiddelbare forud for en periode med virksomhedsforlagt undervisning)

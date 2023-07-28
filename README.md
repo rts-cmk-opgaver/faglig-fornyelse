@@ -62,23 +62,13 @@ a.	Aflevering sker løbende når du pusher til projektets repository.
 Dit valg af emne kan være frit, men det anbefales, at emnet relateres til den teknologi, som den virksomhed, du skal i virksomhedsforlagt undervisning hos, anvender af flere gode grunde:
 
 **Professionelt indtryk:**
-
 Ved at have en god forståelse for virksomhedens teknologiske landskab viser du interesse og engagement i virksomhedens kerneområde. Det sender et positivt signal til dine praktikvejledere og kollegaer, at du har taget initiativ til at lære om de værktøjer og teknologier, de arbejder med.
 
-
-
 **Effektivitet og produktivitet:** 
-
 Du behøver ikke bruge unødig tid på at lære de grundlæggende ting, men kan i stedet bidrage med din viden og erfaring på en måde som skaber værdi for produktet og virksomheden.
 
-
-
 **Mulighed for at stille relevante spørgsmål:**
-
 Når du allerede har en grundlæggende forståelse for de anvendte teknologier, kan du stille mere præcise og relevante spørgsmål til dine kollegaer og vejledere. Dette kan bidrage til en mere meningsfuld dialog og læring under praktikforløbet.
 
-
-
 **Skabe merværdi:** 
-
 Hvis du under praktikken kan demonstrere, at du har kendskab til relevante teknologier og har idéer til, hvordan de kan udnyttes eller forbedres, vil du kunne skabe merværdi for virksomheden. Det kan være med til at øge chancerne for, at de overvejer at tilbyde dig en stilling efter praktikperioden.

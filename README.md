@@ -9,19 +9,20 @@ Rutineret (Faget henvender sig til rutinerede dig, som allerede har grundlæggen
 **Evaluering:**
 Faget afsluttes med en samlet karakter, som tager højde for din indsats hen over de to perioder. Karakteren bliver tildelt ved afslutningen af fagets anden periode og vil afspejle din samlede indsats, forståelse og evne til at anvende den nyerhvervede viden til at udarbejde et konkret produkt.
 
-## Mål:
-Efter afslutningen af faget forventes det, at du har opnået følgende mål:
-
-1.	Du kan tilegne sig viden om aktuelle faglige og teknologiske udviklingstendenser og muligheder inden for webudvikleruddannelsens fagområde.
-2.	Du kan anvende den tilegnede viden i egen praksis. 
-3.	Du skal kunne demonstrere, hvordan den nye viden er kan anvendes i praksis ved at udvikle et konkret fungerende webbaseret produkt eller applikation.
-
 ## Formål:
 Virksomheder kan arbejde med forskellige teknologier afhængigt af deres branche og behov. Ved at have en bredere viden om forskellige teknologier bliver du bedre rustet til at tilpasse dig og lære nye teknologier hurtigere, hvis det bliver nødvendigt.
 
 Det er en central del af fagets formål at styrke din evne til at arbejde uafhængigt og opsøge ny viden på egen hånd inden for din praksis fagområde. 
 
 Det er vigtigt, at du er bevidst om, at faget kræver en selvstændig indsats.
+
+
+## Mål:
+Efter afslutningen af faget forventes det, at du har opnået følgende mål:
+
+1.	Du kan tilegne sig viden om aktuelle faglige og teknologiske udviklingstendenser og muligheder inden for webudvikleruddannelsens fagområde.
+2.	Du kan anvende den tilegnede viden i egen praksis. 
+3.	Du skal kunne demonstrere, hvordan den nye viden er kan anvendes i praksis ved at udvikle et konkret fungerende webbaseret produkt eller applikation.
 
 
 ## Indledning:

@@ -40,20 +40,20 @@ Efter afslutningen af faget forventes det, at du har opnået følgende mål:
 * Afklar dit valgte emne med underviseren og få bekræftet, at det passer inden for fagets rammer og mål.
 
 4.	**Informationsindsamling:**
-a.	Lav en indledende undersøgelse af det valgte emne. Opsøg fx relevante artikler, blogs, tutorials, dokumentation og andre kilder for at få en grundlæggende forståelse for teknologien.
+* Lav en indledende undersøgelse af det valgte emne. Opsøg fx relevante artikler, blogs, tutorials, dokumentation og andre kilder for at få en grundlæggende forståelse for teknologien.
 
 5.	**Udvælgelse af en konkrete problemstilling:**
-a.	Definer en specifik problemstilling eller opgave, som du vil arbejde med inden for det valgte emne.
-b.	Sikr dig, at problemstillingen er realistisk at løse inden for den tidsramme, du har til rådighed.
+* Definer en specifik problemstilling eller opgave, som du vil arbejde med inden for det valgte emne.
+* Sikr dig, at problemstillingen er realistisk at løse inden for den tidsramme, du har til rådighed.
 
 6.	**Udvikling af det konkrete produkt:**
-a.	Implementer og eksperimenter med den valgte teknologi for at løse den valgte problemstilling eller opgave.
+* Implementer og eksperimenter med den valgte teknologi for at løse den valgte problemstilling eller opgave.
 
 7.	**Test:**
-a.	Test dit produkt grundigt for at sikre, at det fungerer som forventet inden endeligt push.
+* Test dit produkt grundigt for at sikre, at det fungerer som forventet inden endeligt push.
 
 8.	**Aflevering:**
-a.	Aflevering sker løbende når du pusher til projektets repository. 
+* Aflevering sker løbende når du pusher til projektets repository. 
 
 
 ## For dig med aftale omkring virksomhedsforlagt undervisning:

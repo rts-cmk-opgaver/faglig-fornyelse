@@ -35,9 +35,9 @@ Efter afslutningen af faget forventes det, at du har opnået følgende mål:
 
 ## Opgavebeskrivelse:
 1. **Valg af emne:**
-..1. Vælg en teknologi fx. framework, bibliotek, et SDK
-..2. Vælg et specifikt emne inden for en af disse teknologier, som du ønsker at udforske og arbejde med.
-..3. Afklar dit valgte emne med underviseren og få bekræftet, at det passer inden for fagets rammer og mål.
+* Vælg en teknologi fx. framework, bibliotek, et SDK
+* Vælg et specifikt emne inden for en af disse teknologier, som du ønsker at udforske og arbejde med.
+* Afklar dit valgte emne med underviseren og få bekræftet, at det passer inden for fagets rammer og mål.
 
 4.	**Informationsindsamling:**
 a.	Lav en indledende undersøgelse af det valgte emne. Opsøg fx relevante artikler, blogs, tutorials, dokumentation og andre kilder for at få en grundlæggende forståelse for teknologien.

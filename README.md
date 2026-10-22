@@ -2,7 +2,6 @@
 
 # Undersøg en - for dig - ukendt teknologi
 
-# Opgaven
 I faget faglig fornyelse skal du igennem egen research tilegne dig viden om en relevante udviklingstendens, det kan for eksempel være et framework, bibliotek, et SDK (software development kit) eller noget fjerde som du kan benytte til at skabe et produkt som er relevant for din fagfaglige praksis, e.g. website, app etc.
 
 Det er et krav at du ikke fra tidligere undervisning har kendskab til den teknologi du vælger at fordybe dig i.

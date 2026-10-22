@@ -44,21 +44,20 @@ Efter afslutningen af faget forventes det, at du har opnået følgende mål:
 6. **Præsentér:**
 * udarbejd et af nedenstående produkter:
   1. en skriftlig rapport på mindst to A4 sider som beskriver teknologiens/værktøjets anvendelsesmuligheder
-  2. En video hvor du præsenterer dit produkt og fortæller om hvordan dit værktøj/teknologi gør webudviklerens hverdag nemmere
+  2. En video hvor du præsenterer dit produkt og fortæller om hvordan dit værktøj/teknologi gør webudviklerens hverdag nemmere
   3. En ”kom-godt-i-gang-guide” til dine klassekammerater, som præsenterer dit produkt/teknologi, og fortæller om, hvad det er for et problem produktet/teknologien løser.
 
 
 6.	**Aflevering:**
 * Du afleverer ved at indsætte et link til dit repository på mitRTS sammen med din præsentation/rapport.
 
-
 **Varighed:** 
 10 dage
 
 
 **Afslutning:**
-Faget afsluttes med en samlet karakter, som tager høj
+På den sidste dag i forløbet afholder vi en udstilling / mini-fernisering, hvor du får mulighed for at se hvad de andre i klassen har arbejdet med.
 
 **Evaluering:**
-Faget afsluttes med en samlet karakter, som tager højde for din indsats hen over de to perioder. Karakteren bliver tildelt ved afslutningen af fagets anden periode og vil afspejle din samlede indsats, forståelse og evne til at anvende den nyerhvervede viden til at udarbejde et konkret produkt.
+Faget afsluttes med en samlet karakter på 7 trins skalaen. Karakteren bliver tildelt ved afslutningen af faget og vil afspejle din samlede indsats, forståelse og evne til at anvende den nyerhvervede viden til at udarbejde et konkret produkt.
 
